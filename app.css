@@ -9,7 +9,7 @@ th,td{
     height: 50px;
 }
 tr:hover{
-    background-color: rgb(236, 191, 226);
+    background-color: #ade8f4;
     color: rgb(57, 69, 236);
     transform: scale(2px);
     border: none;
